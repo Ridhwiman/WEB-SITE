@@ -1,0 +1,92 @@
+    body{
+        background-color: #fbdcc4;
+        margin: 0px;
+        text-align: center;
+        font-family: 'Merriweather', serif;
+    }
+
+    h1{
+        margin: 0;
+        font-family: 'Sacramento', cursive;
+    }
+
+    h2{
+        font-family: 'Montserrat', sans-serif;
+        padding-bottom: 20px;
+        padding-top: 35px;
+    }
+
+    h3{
+        font-family: 'Montserrat', sans-serif;
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+    p{
+        padding: 5px 400px 15px 400px;
+    }
+    img{
+        height: 250px;
+        width: 250px;
+    }
+
+    .top-cloud{
+        height: 48px;
+        width: 150px;
+        position: absolute;
+        right: 300px;
+        top: 50px;
+
+    }
+    .mountain{
+        height: 400px;
+        width: 598px;
+
+    }
+    
+    .web-dev{
+        height: 300px;
+        width: 300px;
+        border-radius: 30%;
+        
+
+    }
+
+    .python{
+        height: 300px;
+        width: 550px;
+    }
+
+    .bottom-cloud{
+        height: 48px;
+        width: 150px;
+        position: absolute;
+        left: 300px;
+        bottom: 300px;
+    }
+    
+    .top-container {
+        position: relative;
+        background-color: #f4f4f4;
+        padding-top: 150px;
+    }
+
+    .middle-container {
+        position: relative;
+        background-color: #99f3bd;
+        padding-top: 150px;
+        
+    }
+    .bottom-container {
+        
+        position: relative;
+        background-color: #9cada4;
+        padding-top: 30px;
+    }
+
+    hr {
+        
+        border-style: dotted none none;
+        border-color: gray;
+        border-width: 5px;
+        width: 3%;
+    }
